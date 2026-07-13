@@ -1,0 +1,26 @@
+# Environments
+.venv/
+venv/
+*_env/
+__pycache__/
+*.pyc
+
+# Secrets — never commit real credentials
+.env
+*.pem
+*.key
+
+# OS cruft
+.DS_Store
+
+# Reference material only, not part of this project — has its own git
+# history and a real .env with API keys, deliberately excluded
+understat/
+
+# Redundant staging copies (canonical files live in data/processed/,
+# results/, and the top-level *_report.md / *_results.zip)
+results_bundle/
+simulator_results/
+
+# Claude Code local settings
+.claude/

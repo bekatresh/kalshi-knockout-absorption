@@ -1,0 +1,3 @@
+variant,tier,n,mean_ea,median_ea,std_ea,mean_abs_deviation,mean_ea_deviation_from_1,median_ea_deviation_from_1
+vwap3,contender,6,1.0331,1.1401,0.3899,0.1447,0.3111,0.2603
+vwap3,longshot,16,0.9451,0.8812,0.6856,9.5087,0.4671,0.3131

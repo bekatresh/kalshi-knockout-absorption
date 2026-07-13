@@ -1,0 +1,3 @@
+variant,tier,n,mean_ea,median_ea,std_ea,mean_abs_deviation,mean_ea_deviation_from_1,median_ea_deviation_from_1
+single,contender,6,0.958,0.8957,0.3455,0.1414,0.2812,0.2815
+single,longshot,16,0.676,0.7895,0.7492,27.6711,0.5646,0.4193

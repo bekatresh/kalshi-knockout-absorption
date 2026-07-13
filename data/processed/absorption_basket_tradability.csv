@@ -1,0 +1,13 @@
+sample,variant,rule,n,mean_net_pnl,median_net_pnl,n_positive,pct_positive
+full,single,a_naive,22,-2.0,1.08,14,0.636
+full,single,b_winner_nextopp,22,-0.92,1.87,15,0.682
+full,single,c_learned_q,22,-14.29,-11.98,7,0.318
+filtered_R,single,a_naive,7,-13.93,-24.17,3,0.429
+filtered_R,single,b_winner_nextopp,7,-22.19,-26.71,1,0.143
+filtered_R,single,c_learned_q,7,-17.27,-25.79,2,0.286
+full,vwap3,a_naive,22,1.79,1.97,16,0.727
+full,vwap3,b_winner_nextopp,22,8.13,4.7,18,0.818
+full,vwap3,c_learned_q,22,-14.86,-27.27,6,0.273
+filtered_R,vwap3,a_naive,7,-10.23,-21.98,3,0.429
+filtered_R,vwap3,b_winner_nextopp,7,-12.87,-10.25,1,0.143
+filtered_R,vwap3,c_learned_q,7,-12.73,-17.15,2,0.286

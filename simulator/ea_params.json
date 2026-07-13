@@ -1,0 +1,9 @@
+{
+  "ea_underdog": 1.018,
+  "ea_favorite": 0.989,
+  "n_underdog": 5,
+  "n_favorite": 2,
+  "min_released": 0.005,
+  "next_opp_share_underdog": 0.226,
+  "source": "data/processed/decomposition_results.csv"
+}
